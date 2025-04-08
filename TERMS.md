@@ -1,0 +1,948 @@
+## **Dollarsmart Global Service Agreement V.2**
+<br>
+
+### **Table of Contents**
+
+#### **1 Interpretation**
+
+#### **2 Services**
+
+#### **3 Price and Payment**
+
+#### **4 Compliance**
+
+#### **5 Term and Termination**
+
+#### **6 Representations and Warranties**
+
+#### **7 Liability**
+
+#### **8 Indemnification**
+
+#### **9 Security and Intellectual Property Rights**
+
+#### **10 Confidentiality**
+
+#### **11 Force Majeure**
+
+#### **12 Miscellaneous**
+
+#### **Schedule 1 Services**
+
+#### **Appendix 1 to Schedule 1 (*Services*) Collection Service**
+
+#### **Appendix 2 to Schedule 1 (*Services*) Disbursement Service**
+
+#### **Appendix 3 to Schedule 1 (*Services*) Virtual Account Service**
+
+#### **Schedule 2 Fee Schedule**
+
+#### **Schedule 3 Service Level Agreement**
+
+#### **Schedule 4 Dollarsmart Global and Customer Banking and Licence Details**
+
+#### **Schedule 5 Local Country Amendments**
+
+#### **Schedule 6 List of Prohibited Industries and Countries**
+
+---
+
+**This Dollarsmart Global Service Agreement** is a legal agreement between you (“**you**” or the “**Customer**”) and **DOLLARSMART GLOBAL PTE. LTD.**, a company incorporated under the laws of Singapore and registered with the Hong Kong Companies Registry as a registered non-Hong Kong company (company registration number F0021413), with its principal place of business at Room L7, 13/F, Liberal Factory Building, No.3 Wing Ming Street, Cheung Sha Wan, Kowloon, Hong Kong (“**Dollarsmart Global or DSGPay**”).
+
+**Whereas**:
+(A) Dollarsmart Global is licensed as a money service operator by the Hong Kong Customs and Excise Department (money service operators licence number 15-08-01682), and provides developed payment processing systems and services, which facilitate international funds transfers.
+(B) The Customer is an individual or a company (as applicable) which wishes to receive currency exchange payment, and/or collection processing and/or virtual account services and/or other Dollarsmart Global services offered from time to time and as such make use of Dollarsmart Global’s services.
+(C) The Parties hereto agree, for their joint and mutual benefit, that Dollarsmart Global shall provide the Customer with such Dollarsmart Global services as per the terms of this Agreement.
+
+**It is agreed** as follows:
+
+### **1. Interpretation**
+
+**1.1 Definitions**
+In this Agreement, unless the context otherwise requires:
+
+“**Agreement**” means this agreement and its Schedules, as amended from time to time;
+
+“**AML/CTF Laws**” means (i) the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance (Cap. 615, Laws of Hong Kong) and its subsidiary legislation, and (ii) any other applicable anti-money laundering or counter-terrorist financing laws in other jurisdictions;
+
+“**Beneficiary**” means the legal person (whether a business or individual) who is the ultimate beneficiary of a Payment Instruction sent by the Customer to Dollarsmart Global on its own behalf or on behalf of its End-Customer;
+
+“**Business Day**” means any working day on which banks in Hong Kong are ordinarily open for business excluding (i) a Saturday or Sunday and (ii) Public Holidays;
+
+“**Client Account**” means a payment account held by the Customer with Dollarsmart Global, which shall be used for settlements to the Customer and payments to Customer’s End-Customers pursuant to this Agreement;
+
+“**Collection Service**” means the service provided by Dollarsmart Global to the Customer in relation to the collection of funds from End Customers (in any countries pre-agreed between the Parties) on behalf of the Customer and as further detailed in Appendix 1 (*Collection Service*) to Schedule 1 (*Services*); 
+
+“**Confidential Information**” has the meaning given to it in Clause 10.1 (*Confidential Information*);
+
+“**Currency Exchange Fee**” means the fee for converting funds from one currency to another as set out in in Schedule 2 (*Fee Schedule*);
+
+“**Customer Materials**” means any materials, data, content, logos, trade marks, trade names, documents and/or other equipment or materials provided by the Customer to Dollarsmart Global and used by Dollarsmart Global directly or indirectly in connection with the supply of the Services. References to this term shall include any modification, adaption, enhancement or derivation of such materials and all Intellectual Property Rights in such materials;
+
+“**Disbursement Service**” means the service provided by Dollarsmart Global to the Customer in relation to the delivery of funds to an End-Customer in accordance with a Payment Instruction and as further detailed in Appendix 2 (*Disbursement Service*) to Schedule 1 (*Services*);
+
+“**Discloser**” means the Party disclosing Confidential Information;
+
+“**Dispute Period**” has the meaning given to it in Clause 3.3 (*Disputed Items*);
+
+“**Effective Date**” means the date the Customer accepts this Agreement by clicking on the “Accept” button, and for any of the Services agreed to be provided by Dollarsmart Global to the Customer after the date of the Agreement, “Effective Date” for such Services shall mean the date Dollarsmart Global agrees to provide such Services after Schedule 1 (*Services*) has been amended by the Parties to select such Services; 
+
+“**End**-**Customer**” means a legal entity or natural person who transacts with the Customer;
+
+“**End**-**Customer Data**” means any personal data of an End-Customer;
+
+“**Excluded Purpose**” means (i) any transfer of funds for any purpose, to or from individuals, entities, states or jurisdictions subject to official sanctions or restricted by order of relevant sovereign or regulatory bodies, (ii) any transfer of funds relating to a payment that would breach, offend or violate any laws in the jurisdiction of the Customer, Dollarsmart Global, any End-Customer or any Beneficiary, or (iii) any transfer of funds for any purpose, to or from, individuals or entities engaged in an industry specified to be restricted or prohibited, or located in a jurisdiction specified to be restricted or prohibited, in the List of Prohibited Industries and Countries;
+
+“**External Bank Account**” means a separate bank account held by the Customer;
+
+“**Fees**”	means (i) any and all fees for the Services as set out in Schedule 2 (*Fee Schedule*) and (ii) any other fees as may be charged by Dollarsmart Global pursuant to the terms of this Agreement;
+
+“**Force Majeure Event**” has the meaning given to it in Clause 11 (*Force Majeure*);
+
+“**Funds**” means the Customer’s monies transmitted via Dollarsmart Global or held in the Client Account;
+
+“**Illegal Activities**” means (i) money laundering, terrorism financing or any other criminal activities, and (ii) any activities which are in breach of applicable law, including activities which breach AML/CTF Laws;
+
+“**Indemnitee**” has the meaning given to it in Clause 8.1 (*Indemnity*);
+
+“**Indemnitor**” has the meaning given to it in Clause 8.1 (*Indemnity*);
+
+“**Intellectual Property Right**”	means any (i) copyright, patent, know-how, rights in domain names and rights in trade marks, trade names, service marks and designs (whether registered or unregistered), (ii) applications for registration, and the right to apply for registration for any of the same, and (iii) all other intellectual property rights and equivalent or similar forms of protection existing anywhere in the world;
+
+“**Intermediary Bank**” means (i) all downstream and third-party banks (including the bank of the Customer and End-Customer), and (ii) any licensed payment partners, in each case used by Dollarsmart Global to facilitate the Disbursement Service or Collection Service;
+
+“**List of Prohibited Industries and Countries**” means the list of prohibited industries and jurisdictions maintained by Dollarsmart Global as set out in Schedule 6 (*List of Prohibited Industries and Countries*);
+
+“**Parties**” means the parties to this Agreement;
+
+“**Payer**”	 means a person making a payment to the Customer through the Collection Service;
+
+“**Payment Instruction**” means an instruction given by the Customer to Dollarsmart Global for the distribution of funds from the Client Account to Beneficiaries;
+
+“**Personal Information**” has the meaning it was given in the Personal Data (Privacy) Ordinance (Cap. 486, Laws of Hong Kong);
+
+“**Public Holiday**” means any day which is or is to be observed as a public holiday in (i) Hong Kong, and (ii) any other jurisdictions in which Dollarsmart Global operates;
+
+“**Receiver**” means the Party receiving Confidential Information;
+
+“**Services**” means the applicable services provided or required to be provided by Dollarsmart Global to the Customer in accordance with Clause 2.1.2 and as selected under Schedule 1 (*Services*);
+
+“**Transaction**” means a movement of funds (i) from the Customer to its End-Customer(s) as part of the Disbursement Service, or (ii) from an End-Customer to the Customer as a part of the Collection Service;
+
+“**Transaction Fee**” means the fee for making a Transaction as set out in in Schedule 2 (*Fee Schedule*); 
+
+“**VAT**” means any value added, goods and services or sales or use tax in any jurisdiction charged pursuant to applicable laws;
+
+“**Virtual Account**” means funds held by Dollarsmart Global on behalf of the Customer from collections made on behalf of the Customer and to be used for payments to the Customer’s Beneficiaries. All Funds that are collected by Dollarsmart Global into the Virtual Account are for the purpose of remittance only and funds cannot be held for any other reason or purpose; and
+
+“**Virtual Account Service**” means the service as further detailed in Appendix 3 (*Virtual Account Service*) to Schedule 1 (*Services*).
+
+**1.2 Interpretation**
+
+   1.2.1 **Schedules, etc.** References to Recitals, Clauses, Schedules, Appendices or Exhibits are to recitals to, clauses of, schedules, Appendices to or exhibits to this Agreement. References to paragraphs or parts are to paragraphs or parts of the Schedules. The Schedules, Appendices and Exhibits have the same force and effect as if set out in the body of this Agreement.
+   1.2.2 **Headings.** The headings in this Agreement shall not affect its interpretation.
+   1.2.3 **Information.** References to books, records or other information are to books, records or other information in any form, including paper, electronically stored data, magnetic media, film and microfilm.
+   1.2.4 **Non-limiting use of words.** The words “include”, “included”, “including”, “in particular” and their cognates shall not be interpreted as words of limitation.
+   1.2.5 **Singular; plural**. References to the singular include the plural and *vice versa*.
+   1.2.6 **References to persons and companies.** References to:
+      (i) a person include any company, partnership or unincorporated association (whether or not having separate legal personality); and
+      (ii) a company shall include any company, corporation or any body corporate, wherever incorporated.
+<br>
+### **2. Services**
+
+**2.1 Provision of Services**
+   
+   2.1.1 Dollarsmart Global shall provide, or procure the provision of, the applicable Services to the Customer from the Effective Date in accordance with the terms and conditions of this Agreement. 
+   2.1.2 The Parties hereby agree that the applicable Services selected in Schedule 1 shall be provided by Dollarsmart Global to the Customer from the applicable Effective Date.
+      
+**2.2 Standard of Services**
+   
+Dollarsmart Global will provide the Service(s) in a manner consistent with the service standards set forth in Schedule 3 (*Service Level Agreement*).
+
+**2.3 Changes to Services**
+
+   2.3.1 Dollarsmart Global may, at its sole discretion, change the manner in which a Service is provided or vary the terms (including adding, varying or supplementing the Services in Schedule 1 and/or any of the Appendices in Schedule 1) and/or service level of any Service (including varying the service standards set forth in Schedule 3 (*Service Level Agreement*)) as it deems necessary or advisable, if:
+      (i) Dollarsmart Global, acting reasonably, believes that such change, supplement or addition is advisable to offer a new or changed Service to the Customer or following a request from the Customer for such new or changed Service;
+      (ii) Dollarsmart Global, acting reasonably, believes that such change is advisable for the continued performance of such Service or due to the nature of Dollarsmart Global’s ongoing business operations; or
+      (iii) Dollarsmart Global is required to do so under or in order to comply with any applicable legal, regulatory or policy requirement. 
+   2.3.2 To the extent necessary to reflect a change in the Services made pursuant to this Clause 2.3, the details and changes to such Service shall be inserted into the applicable Schedules (or replaced with amended Schedule(s) and/or Appendices), replacing the existing details in respect of such Service.
+   
+**2.4 Additional Services**
+
+   2.4.1 The Customer may request, and Dollarsmart Global may provide, additional Services which is not selected under Schedule 1 (*Services*) at the date of signing of this Agreement.
+   2.4.2 The Customer is not obliged to make, and Dollarsmart Global is not obliged to agree to, any request for the provision of any additional Services pursuant to Clause 2.4.1.
+   2.4.3 If the Parties mutually agree upon the provision of any such Services, Schedule 1 (*Services*) shall be amended to select such Services.
+   
+**2.5 Suspension or Termination of Services**
+
+   2.5.1 Dollarsmart Global may, in its sole discretion, suspend and/or terminate the provision of any or all of the Services for any Transaction, if:
+      (i) the Customer fails to make any payment when it is due;
+      (ii) the Customer fails to provide any material information requested by Dollarsmart Global, or any information provided to Dollarsmart Global is or becomes, in Dollarsmart Global’s sole opinion, materially inaccurate or misleading;
+      (iii) Dollarsmart Global reasonably believes the Customer is in breach of applicable law or reasonably believes the Customer is about to breach an applicable law;
+      (iv) Dollarsmart Global suspects that any of the Services is being used fraudulently; 
+      (v) the Customer notifies Dollarsmart Global, or Dollarsmart Global suspects or identifies any suspected or actual unauthorised Transactions or otherwise suspect criminal activity in connection with the Client Account;
+      (vi) the Customer notifies Dollarsmart Global of, or Dollarsmart Global suspects or identifies, any suspected or actual unauthorised access to the Client Account;
+      (vii) the balance of the Client Account is negative; 
+      (viii) the Customer is deceased or becomes mentally incapacitated or does not use the Client Account for six (6) consecutive months and it becomes dormant; 
+      (ix) the Customer becomes the subject of a petition in bankruptcy or any proceeding relating to insolvency, receivership, liquidation, or composition for the benefit of creditors, regardless of a voluntary or involuntary nature; 
+      (x) the performance of this Agreement becomes illegal or breaches applicable law;
+      (xi) Dollarsmart Global reasonably considers it necessary for technical or security reasons;
+      (xii) a serious dispute has arisen between the Parties; 
+      (xiii) Dollarsmart Global believes that the ongoing relationship or association with the Customer is reasonably likely to or will bring Dollarsmart Global and/or any of its other customers into disrepute; 
+      (xiv) if the Customer breaches an important term of this Agreement; or
+      (xv) if the Customer carries out a Transaction with any individuals or entities: (a) engaged in an industry specified in the List of Prohibited Industries and Countries, or (b) located in a jurisdiction specified in the List of Prohibited Industries and Countries.
+   2.5.2 In the event Dollarsmart Global suspends or terminates the provision of any or all of the Services for any Transaction in accordance with Clause 2.5.1, Dollarsmart Global may charge the Customer a cancellation fee for each relevant Transaction, as set forth in Schedule 2 (*Fee Schedule*).
+   2.5.3 The Customer acknowledges and agrees that:
+      (i) Dollarsmart Global shall not be required to pay the Customer any profit arising from the cancellation of a Transaction in accordance with Clause 2.5.1, nor reimburse the Customer for any loss suffered by the Customer arising from the cancellation of a Transaction in accordance with Clause 2.5.1; and
+      (ii) any loss suffered by Dollarsmart Global arising from the cancellation of a Transaction in accordance with Clause 2.5.1 shall be deemed as a debt payable by the Customer and Dollarsmart Global may immediately deduct the total amount of such loss (together with any expenses, premiums, commissions or other fees) from any other Funds held by Dollarsmart Global in relation to any Transaction of the Customer. If such amount exceeds the amount of any other Funds held by Dollarsmart Global, the Customer shall pay the balance within seven (7) days of being notified by Dollarsmart Global of the total amount due
+      (iii) Clause 3.4 (*Overdue Payments*) will apply on any sum that remains payable to Dollarsmart Global after the cancellation of a Transaction in accordance with Clause 2.5.1. 
+<br>
+### **3. Price and Payment**
+
+**3.1 Pricing**
+   
+   3.1.1 In consideration for the Services, the Customer shall pay to Dollarsmart Global the Fees, which shall be calculated in accordance with Schedule 2 (*Fee Schedule*). 
+   3.1.2 Dollarsmart Global may, in its sole discretion, revise the Fees for any or all of the Services.
+   3.1.3 To the extent necessary to reflect a change in Fees made pursuant to Clause 3.1.2, details of such changes shall be inserted into Schedule 2 (*Fee Schedule*), replacing the existing details in respect of such Fees.
+   
+**3.2 Payment Terms**
+   
+   3.2.1 Dollarsmart Global shall calculate the Fees in accordance with Schedule 2 (*Fee Schedule*), no later than seven (7) Business Days following the last day of the month or the week, respectively, and shall deduct the Fees from the Client Account in real time or monthly as specified in Schedule 2 (*Fee Schedule*). 
+   3.2.2 The Customer acknowledges that Dollarsmart Global, in addition to the Fees for providing the Services to the Customer, shall charge End-Customers a Currency Exchange Fee and a Transaction Fee, which shall be:
+         (i) Where as a part of Disbursement Service, deducted from the amount to be paid to the End-Customer by the Customer; and
+         (ii) Where as a part of Collection Service, added to the amount to be collected from the End-Customer by Dollarsmart on behalf of the Customer.
+      3.2.3 The Customer shall ensure that the Client Account contains a sufficient balance of the currency required for Fees automatically deducted from the Client Account in accordance with Schedule 2 (*Fee Schedule*). Where the balance is insufficient to deduct the payment of Fees, the Customer shall pay any outstanding balance to Dollarsmart Global without any delay, and any payments out from the Client Account will be suspended until such time as the outstanding Fees has been settled in full. 
+      
+**3.3 Disputed Items**
+
+To the maximum extent permitted by applicable law, the Customer shall notify Dollarsmart Global within five (5) days after receipt of a statement report if the Customer wishes to dispute the amount of any Transaction (“**Dispute Period**”). After the expiration of the Dispute Period, the settlement regarding those Transactions shall be deemed valid and approved by the Customer. 
+
+**3.4 Overdue Payments**
+
+To the extent that any payment due under this Agreement is not paid on the due date, interest shall be payable on the outstanding amount at the rate of 2% per month (which shall accrue day by day on the basis of the actual number of days elapsed and a year of three-hundred-and-sixty-five (365) days and be compounded annually) from and including the due date up to and including the date of actual payment. The interest shall be paid together with the outstanding amount to which it relates.
+
+**3.5 Tax**
+
+   3.5.1 All stamp, transfer, documentary, registration and other similar taxes, duties, fees and charges (including VAT) with respect to the provision of the Services and the execution of this Agreement (including any interest and penalties thereon or in connection therewith) shall be borne by the Customer. 
+   3.5.2 For the avoidance of doubt, Dollarsmart Global shall not be liable for any VAT or similar charges arising from use of the Services by the Customer under this Agreement. In the event that there is any VAT or similar charges applicable in respect of the Services or any Transaction as required by applicable laws, such amounts will be withheld or deducted from, or charged to, the Customer by Dollarsmart Global.
+<br>
+### **4. Compliance**
+
+**4.1 Standard Measures**
+   
+   4.1.1 Notwithstanding any other provision of this Agreement, Dollarsmart Global and the Customer shall comply with all applicable laws (including in the case of Dollarsmart Global, the Personal Data (Privacy) Ordinance (Cap. 486, Laws of Hong Kong)) in performing this Agreement. 
+   4.1.2 Dollarsmart Global reserves the right to suspend, cancel or withhold a particular transfer of Funds or the availability of the Services to a particular End-Customer or Beneficiary (including in the event that Dollarsmart Global becomes aware or reasonably suspects that any relevant activity of the Customer, its affiliate or End-Customer is required to be authorised by a competent regulatory authority or does not comply with the laws, rules, or requirements of a competent regulatory authority in a particular country, state or territory) without otherwise affecting the provisions of the Services by Dollarsmart Global or violating the terms of this Agreement.
+   4.1.3 In the event that the Customer, Dollarsmart Global, or any Intermediary Bank identify any activity or transaction as requiring further investigation, then the Customer: 
+         (i) shall promptly on request provide Dollarsmart Global with any applicable information that it holds on any End-Customer or Beneficiary, and acknowledges that Dollarsmart Global may forward any such information onto any relevant Intermediary Bank; 
+         (ii) acknowledges that any such investigation may result in delay or rejection of transfer of Funds in either direction; and
+         (iii) acknowledges that in the event the necessary information is not provided, or there is an unreasonable delay in providing such information, then the payment will not be processed by Dollarsmart Global and if processed, will be recalled by Dollarsmart Global and further that Dollarsmart Global may be obliged under law to withhold the funds and file a suspicious activity report and that Dollarsmart Global may take whatever action it reasonably believes is required to under applicable laws, regulations and policies.
+         
+**4.2 Compliance with AML/CTF Laws**
+   
+   4.2.1 The Customer acknowledges that Dollarsmart Global is subject to AML/CTF Laws and hereby consents that Dollarsmart Global may disclose any of the Customer’s (or the Customer’s representatives’ and employees’) Personal Information in connection with AML/CTF Laws.
+   
+**4.3 Freezing or blocking**
+   
+   4.3.1 Dollarsmart Global may freeze or block the Client Account where:
+         (i) it is used in connection with Illegal Activities;
+         (ii) Dollarsmart Global reasonably suspects it is being used in connection with Illegal Activities; or
+         (iii) Dollarsmart Global reasonably suspects it is being used in connection with any industry or jurisdiction specified as prohibited in the List of Prohibited Industries and Countries.
+    4.3.2 If Dollarsmart Global freezes or blocks a Client Account pursuant to Clause 4.3.1: 
+         (i) Dollarsmart Global shall not be liable to the Customer for any consequences or losses whatsoever arising from the freezing or blocking of the Client Account; and 
+         (ii) Clause 8.1.4 shall apply.  
+         
+**4.4 Refusal of Services**
+   
+   4.4.1 Dollarsmart Global may, in its sole discretion, refuse to provide any or all of the Services to the Customer at any time, if:
+         (i) the Customer fails to provide, upon Dollarsmart Global’s request, any information that Dollarsmart Global is required to collect from the Customer under the AML/CTF Laws;
+         (ii) the Customer does not provide Dollarsmart Global with complete, accurate, and up-to-date information as part of Dollarsmart Global’s due diligence checks on the Customer, the Customer’s directors, partners, ultimate beneficial owners, and employees (as relevant) and together with its End-Customers and Beneficiaries and any other parties involved in the Transactions or use of the Services. Dollarsmart Global will not be responsible for any loss arising out of the Customer’s failure or delay in providing Dollarsmart Global with the information that Dollarsmart Global requires;
+         (iii) the Customer fails to complete the initial, and any subsequent, customer due diligence checks, including credit evaluations;  
+         (iv) the name of the Customer or any of its End-Customers and Beneficiaries appears on the sanctions list issued by the Hong Kong government or any other jurisdiction; 
+         (v) the name of the Customer or any of its End-Customers and Beneficiaries appears on the list of politically exposed persons issued by the Hong Kong government or any other jurisdiction; or
+         (vi) if the Customer carries out a Transaction with any individuals or entities: (a) engaged in an industry specified in the List of Prohibited Industries and Countries, or (b) located in a jurisdiction specified in the List of Prohibited Industries and Countries.
+<br>
+### **5. Term and Termination**
+
+**5.1 Term**
+   
+   5.1.1 This Agreement shall commence on the Effective Date and continue for a period of one (1) year from the Effective Date (the “**Initial Term**”), unless earlier terminated or renewed in accordance with the remainder of this Clause 5. 
+   5.1.2 After the Initial Term, this Agreement shall automatically renew each year for successive terms of one (1) year (each, a “**Renewal Term**”), unless either Party has provided notice to the other Party of termination at least thirty (30) days before the end of the Initial Term or relevant Renewal Term.
+   
+**5.2 Termination events**
+
+Either Party may terminate this Agreement, with immediate effect, by written notice to the other Party, if: 
+
+   5.2.1 the other Party commits a material breach of this Agreement and, if the breach is capable of being remedied, fails to remedy the breach by no later than the date falling thirty (30) days after the failure or breach; 
+   5.2.2 the other Party breaches any applicable laws or regulations in connection with the provision or receipt of the Services and such breach has a material impact on the provision or receipt of the Services;** 
+   5.2.3 (in the case of Dollarsmart Global only) the Customer fails to issue payments or pay fees in accordance with this Agreement, and such breach is not cured within fifteen (15) days after receipt of written notice from Dollarsmart Global; 
+   5.2.4 the other Party becomes the subject of a voluntary petition in bankruptcy or any voluntary proceeding relating to insolvency, receivership, liquidation, or composition for the benefit of creditors;
+   5.2.5 the other Party becomes the subject of an involuntary petition in bankruptcy or any involuntary proceeding relating to insolvency, receivership, liquidation, or composition for the benefit of creditors, if such petition or proceeding is not dismissed within sixty (60) days of filing; or
+   5.2.6 in the terminating Party’s reasonable opinion, any act, omission or providing the Services to the other Party causes or is likely to cause any material damage to the terminating Party’s regulatory standing and no reasonable endeavours can be made (including through a mutually agreed written amendment of this Agreement) without potentially damaging such regulatory standing.
+
+**5.3 Termination by Dollarsmart Global**
+
+   5.3.1 Dollarsmart Global may terminate this Agreement, with immediate effect, by written notice to the Customer, if: 
+      (i) Dollarsmart Global has suspended or terminated the provision of any or all of the Services for any Transaction pursuant to Clause 2.5.1 for a continuous period of ten (10) days;
+      (ii) Dollarsmart Global has frozen or blocked the Client Account pursuant to Clause 4.3 (*Freezing or blocking*) for a continuous period of ten (10) days; or
+      (iii) Dollarsmart Global has refused to provide any or all of the Services to the Customer pursuant to Clause 4.4 (*Refusal of Services*) for a continuous period of ten (10) days.
+      
+**5.4 Consequences of Termination**
+
+Upon the termination of this Agreement, the following consequences will apply:
+
+   5.4.1 Dollarsmart Global shall immediately cease providing the Services and return to the Customer (to the nominated bank account of the Customer) any Funds, less any amounts due, as soon as reasonably practicable, but in any event within sixty (60) days of any such termination or otherwise as required or permitted by applicable laws;
+   5.4.2 the Customer will not be able to use the Services or the Dollarsmart Global platform, and all rights granted to the Customer under this Agreement will cease and is terminated. Further, the Customer must immediately return or delete copies of any documentation, notes and other materials comprising or regarding the Dollarsmart Global platform and/or these Services; and
+   5.4.3 all payment obligations to Dollarsmart Global prior to the effective date of termination and other amounts outstanding under this Agreement shall become due and payable thirty (30) days after termination.
+
+**5.5 Survival of Rights on Termination**
+
+   5.5.1 Termination of this Agreement shall not affect any rights or obligations which may have accrued before termination or expiry. The obligations of each Party set out in any Clause intended to survive such termination or expiry, including this Clause 5.5 and Clauses 1 (*Interpretation*), 3.2 (*Payment Terms*), 3.5 (*Tax*), 5 (*Term and Termination*), 6 (*Representations and Warranties*), 7 (*Liability*), 9 (*Security and Intellectual Property Rights*), 10 (*Confidentiality*), 11 (*Force Majeure*), and 12 (*Miscellaneous*) (except for Clause 12.8 (*Non-Solicitation*)), shall continue in full force and effect notwithstanding termination or expiry of this Agreement.
+   5.5.2 Clause 12.8 (*Non-Solicitation*) shall continue in full force and effect until the date which is twelve (12) months after the date of termination of this Agreement
+<br>
+### **6. Representations and Warranties**
+
+**6.1 Representations and Warranties**
+
+Each representation and warranty will: 
+
+   6.1.1 be a separate representation and warranty and will in no way be limited or restricted by inference from the terms of any other representation and warranty or by any other words in this Agreement;
+   6.1.2 continue and remain in force notwithstanding the termination of this Agreement; and
+   6.1.3 be deemed to be material and to be a material representation and warranty inducing the Parties to enter into this Agreement.
+
+**6.2 Mutual Warranties**
+
+Each Party represents, warrants and undertakes to the other Party that:
+
+   6.2.1 it is validly incorporated, organised and subsisting in accordance with the laws of its place of incorporation;
+   6.2.2 it has full capacity and authority to enter into and to perform this Agreement, the performance of which will not infringe the rights of any third party or cause it to be in breach of or default under any obligation to a third party (including any contractual or fiduciary obligation) or any law; and
+   6.2.3 it is the owner of all rights, title, and interest to its proprietary rights, and has not received any written notice or claim and is not otherwise aware that any of its proprietary rights infringes or misappropriates the proprietary rights of any third party.
+
+**6.3 Warranties by Dollarsmart Global**
+
+Dollarsmart Global represents, warrants and undertakes to the Customer that in undertaking its obligations pursuant to this Agreement, it will exercise at least the same degree of competence and professionalism which would reasonably and ordinarily be expected from a skilled and experienced operator engaged in the same type of business as Dollarsmart Global under the same or similar circumstances.
+
+**6.4 Warranties, representations and undertakings by the Customer**
+
+The Customer represents, warrants and undertakes to Dollarsmart Global that: 
+
+   6.4.1 it will use the Services only for lawful purposes and in accordance with the terms of this Agreement;
+   6.4.2 it will not use the Services for any Excluded Purpose; 
+   6.4.3 it will not knowingly do any act or omit to do any act that might cause Dollarsmart Global to be in breach of AML/CTF Laws, and shall notify Dollarsmart Global immediately if it becomes aware of any matter that might cause Dollarsmart Global to be in breach of AML/CTF Laws; 
+   6.4.4 it will, at Dollarsmart Global’s request, promptly provide additional information and assistance and comply with all reasonable requests of Dollarsmart Global to facilitate Dollarsmart Global’s compliance with AML/CTF Laws;
+   6.4.5 it is not aware and has no reason to suspect that any Funds transferred by it:
+   (i) are derived from or related to Illegal Activities; or
+   (ii) will be used to finance, or in connection with, Illegal Activities; 
+   6.4.6 it owns or has obtained all rights, consents, permissions, or licences necessary to allow Dollarsmart Global’s access to, or possession, manipulation, processing, or use of, all personal data disclosed to Dollarsmart Global by it;
+   6.4.7 it will promptly inform Dollarsmart Global within five (5) Business Days of any legal or regulatory requirements, or any other cause or circumstance affecting the performance of either Party under this Agreement and in such event to cease using the Services immediately upon notice;
+   6.4.8 it will promptly inform Dollarsmart Global about changes to its company structure, nature of products, or services offerings and that upon Dollarsmart Pay’s request, provide within ten (10) Business Days, additional information for Dollarsmart Global to carry out an assessment of the Customer;
+   6.4.9 it has performed a complete customer due diligence process and know your customer practice for each of its End-Customers to whom funds are being disbursed by Dollarsmart Global under this Agreement, and as required by applicable laws and regulations; and
+   6.4.10 all taxes, VAT and similar taxes and any other taxes, duties or other government tariffs have been paid in full on the funds being disbursed by Dollarsmart Global.
+
+In the event of any breach, or reasonably anticipated breach, of the above-mentioned warranties, in addition to any other remedies available at law or in equity, Dollarsmart Global shall have the right immediately, at its sole discretion, to (i) suspend or terminate all related Services and (ii) to terminate this Agreement. 
+
+**6.5 No Other Warranty**
+
+Except for the express warranties set out in Clause 6.3 (*Warranties by Dollarsmart Global*), all Services performed and provided by Dollarsmart Global are performed, provided, or made available on an "as is" basis, and the Customer's use of the Services is at its own risk. Dollarsmart Global does not make, and hereby disclaims, any and all other express and/or implied warranties, representations or undertakings by statute, regulation or otherwise, including, but not limited to, warranties of merchantability, quality, fitness for a particular purpose, and non-infringement, and any warranties arising from a course of dealing, usage, or trade practice. Dollarsmart Global does not warrant that the Services provided hereunder will be uninterrupted, error-free, or fully secure (including but not limited to unauthorised or unlawful processing or any illegal access or theft (as well as DDoS and cyber-attacks).
+<br>
+### **7. Liability**
+
+**7.1 Exclusions** 
+   
+   7.1.1 Subject to Clause 7.3 (*Exceptions*), but otherwise notwithstanding any other provision of this Agreement, to the maximum extent permitted by applicable law, Dollarsmart Global shall not be liable to the Customer or to any third party for or in respect of: 
+         (i) any loss of profits, loss of business opportunities or bargain, loss of revenue, loss of anticipated profits, loss of or corruption of data or loss associated with the same, loss of operation time or loss connected with or arising from business interruption, loss of anticipated savings, or damage to goodwill or any other damage to reputation;
+         (ii) any damages, harm, or losses to the Customer arising from or relating to hacking, tampering, or other unauthorised access or use of the Services or the Client Account, or the Customer’s failure to use or implement data security measures (including failure by Customer to ensure the security of its username and password), save to the extent such event arises directly from a breach of this Agreement by Dollarsmart Global; 
+         (iii) any loss outside of the direct control of Dollarsmart Global that arises from the negligence, fraud or wilful misconduct or the insolvency of any Intermediary Bank who is part of the payment network used to provide the Services;
+         (iv) any loss or misdirection of Funds, save to the extent such loss arises directly from a breach of this Agreement by Dollarsmart Global; or
+         (v) Funds which have been confiscated, blocked or appropriated by any government, bank, regulatory or other authorities.
+    7.1.2 For the avoidance of doubt, Dollarsmart Global shall not be liable to any Beneficiaries, and/or End-Customers for any loss or liability, save to the extent that any such liability cannot be excluded or limited by applicable laws. 
+    
+**7.2 Liability Cap**
+
+Subject to Clause 7.3 (*Exceptions*) and to the maximum extent permitted by applicable law, Dollarsmart Global's maximum aggregate liability related to or in connection with this Agreement shall be limited to the total amount of the Fees paid or payable by the Customer to Dollarsmart Global in the six (6) months preceding the claim.
+
+**7.3 Exceptions**
+
+The limits on liability set out in this Clause 7 (*Liability*) shall not apply in respect of:
+
+   7.3.1 any liability for death or personal injury resulting from a Party’s negligence; 
+   7.3.2 any liability for fraud or fraudulent misrepresentation by a Party; 
+   7.3.3 any liability under Clause 8 (*Indemnification*); 
+   7.3.4 any Fees and other amounts due and payable under this Agreement; or
+   7.3.5 any other liability which cannot be lawfully excluded. 
+<br>
+### **8. Indemnification** 
+
+**8.1 Indemnity**
+
+The Customer (the “**Indemnitor**”) agrees to indemnify, defend and hold Dollarsmart Global and its affiliates and their respective officers, directors, agents, employees representatives and successors (together, the “**Indemnitee**”) harmless from and against any and all claims, liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other reasonable professional costs and expenses) suffered or incurred by the Indemnitee, in connection with or relating to:
+
+   8.1.1 any breach of any warranty, covenant or misrepresentation by the Indemnitor under this Agreement;
+   8.1.2 any breach, negligent performance, or non-performance of this Agreement by the Indemnitor;
+   8.1.3 the Indemnitor’s failure to comply with applicable laws; 
+   8.1.4 the freezing or blocking of the Indemnitor’s Client Account pursuant to Clause 4.3.1;
+   8.1.5 any claim made against the Indemnitee for actual or alleged infringement of a third party’s Intellectual Property Rights arising out of or in connection with Dollarsmart Global’s use of the Customer Materials; or
+   8.1.6 any of the Customer’s Transactions (including Dollarsmart Global acting on any of the Customer’s instructions which Dollarsmart Global reasonably believes to have been made by the Customer or its End-Customers) or any investment, deposit or other deployment of funding or the unwinding of any arrangement for that funding where Dollarsmart Global has funded or arranged to fund all or part of any Transactions upon the Customer’s instruction and the Customer has cancelled or failed to fully fund that Transaction.
+
+**8.2 Notice**
+
+The Indemnitee shall provide the Indemnitor prompt written notice as soon as practicable upon becoming aware of the existence of any claim as to which indemnity may be sought, and shall grant the Indemnitor authority to defend or settle such claim. Further, the Indemnitee shall use its reasonable endeavours to minimise the loss against which the Indemnitor may be obliged to indemnify, and provide the Indemnitor with reasonable assistance requested by the Indemnitor (at the Indemnitor’s expense), for the defence and settlement of such claim.
+<br>
+### **9. Security and Intellectual Property Rights**
+
+**9.1 Account Security** 
+   
+   9.1.1 The Customer acknowledges and agrees that it is solely responsible for maintaining the confidentiality of the Client Account in its possession. The Customer agrees to:
+         (i) not allow anyone else but the Customer and its authorised personnel to have or use its password details and to comply with all reasonable instructions Dollarsmart Global may issue regarding account access and security; and
+         (ii) take all reasonable steps to protect the security of the password used by the Customer to access the Client Account.
+   9.1.2 Dollarsmart Global shall be entitled to rely on and assume that all information and data entered into the Client Account has been entered by parties authorised by the Customer.
+   9.1.3 In the event the Customer becomes aware of or reasonably suspects that the Client Account has been accessed without authorisation, it shall promptly inform Dollarsmart Global within twenty-four (24) hours of first notice or suspicion, whichever is earlier. Without prejudice to the foregoing, the Customer shall inform Dollarsmart Global even if no actual damage has occurred.
+
+**9.2 Data Security Compliance**
+
+Each Party will comply to the extent necessary with all applicable law in the provision of receipt of the Services under this Agreement, including but not limited to, employing appropriate technical and organisational measures to protect End-Customer Data and maintaining processes and systems which provide adequate protection under applicable law. 
+
+**9.3 Intellectual Property Rights**
+
+   9.3.1 Any and all Intellectual Property Rights related to the Services provided by Dollarsmart Global under this Agreement remain the sole property of Dollarsmart Global. Except for the rights expressly granted in this Agreement, Dollarsmart Global does not grant to the Customer any rights or licences, whether express or implied.
+   9.3.2 For the avoidance of doubt, the Customer shall not be entitled to extract, re-utilise or copy any data that is created by Dollarsmart Global or its Intermediary Banks to facilitate the processing of a payment, without the prior written consent of Dollarsmart Global. 
+   9.3.3 Each Party agrees that it shall not at any time, either during the term of this Agreement or after its expiration or termination, acquire, adopt, use or register whether as a trade mark, service mark or trade name, or as a copyright or element of copyright symbol or combination which is identical or similar to any of the other Parties’ or any of its affiliates in terms of its Intellectual Property Rights.
+   9.3.4 The Customer grants a royalty-free, non-exclusive, irrevocable, transferable and sub-licensable licence to Dollarsmart Global and any third-party service provider of Dollarsmart Global, to use the Customer Materials, for the purposes of providing the Services and fulfilling Dollarsmart Global’s rights and discharging its obligations under this Agreement.
+   9.3.5 The Customer is solely responsible for the quality, accuracy, and completeness of any Customer Materials. 
+<br>
+### **10. Confidentiality**
+
+**10.1 Confidential Information**
+   
+   10.1.1 The Parties undertake not to use or disclose, directly or indirectly to any third party, proprietary and confidential information of the Parties, whether commercial, financial, technical or otherwise, and whether communicated orally, in writing, in machine readable or any other form by the Discloser or its representatives. This shall include any confidential information relating to this Agreement, either Party’s business, including but not limited to details of trade secrets, know-how, strategies, ideas, operations, compliance information, processes, methodologies, practices or any other information which, by its very nature, would reasonably be determined to be secret and confidential and which the Parties desire to protect against unrestricted disclosure or competitive use, or which is designated as such (“**Confidential Information**”).
+   10.1.2 Each Party acknowledges that the Discloser is the owner or licensee of such Confidential Information and agrees not to copy, reproduce, sell, assign, license, market, transfer, give, or otherwise disclose such information to third parties, other than auditors, advisers, or agents, or to use such Confidential Information for any purposes whatsoever without the prior written consent of the Discloser, other than for the provision and receipt of the Services hereunder. 
+   10.1.3 Each Party agrees to the following regarding the use of the other Party’s Confidential Information: 
+         (i) to limit the use of the other Party’s Confidential Information;
+         (ii) only to disclose Confidential Information to relevant employees and third parties, and
+         (iii) only to use Confidential Information when necessary for the performance of the obligations and enjoyment of rights under this Agreement. 
+   10.1.4 Each Party agrees to take all necessary steps to ensure that employees, directors or any other third parties receiving Confidential Information are informed of and comply with the confidentiality restrictions contained in this Agreement.
+   10.1.5 Notwithstanding the foregoing, the Receiver will not be obligated to hold confidential any information received from the Discloser which:
+         (i) is or becomes known to the general public other than by a breach of this Agreement; 
+         (ii) is rightfully received by the Receiver from a third party without a duty of confidentiality; 
+         (iii) was already known to the Receiver prior to the disclosure, and that knowledge was evidenced in writing prior to the date of disclosure; or
+         (iv) must be disclosed under an order of a court or upon demand by a legitimate government agency, provided that the Party provides the other Party with written notification prior to any such order being made or the delivery date in terms of any demand by a legitimate government agency, in order to allow the other Party to oppose such order or demand.
+         
+**10.2 Return of Confidential Information**
+
+After any termination of this Agreement, and upon written request by Dollarsmart Global, the Customer shall return all originals and copies thereof of any Confidential Information disclosed by Dollarsmart Global or any other party on Dollarsmart Global’s instruction, within fifteen (15) Business Days of written request.
+
+**10.3 Dollarsmart Global’s Right to Seek Injunctive Relief**
+
+The Customer acknowledges that a violation of its obligation to protect and safeguard the Confidential Information would cause irreparable harm to Dollarsmart Global, for which no adequate remedy in law exists, and the Customer therefore agrees that, in addition to any other remedies available to Dollarsmart Global, Dollarsmart Global shall, in such circumstances, be entitled to seek injunctive relief.
+<br>
+### **11. Force Majeure**
+
+11.1 Neither Party will be liable for any liability, losses, damages or expenses arising indirectly or directly from any failure or delay in its performance under this Agreement due to any cause beyond its reasonable control, including act of war, acts of God, earthquake, flood, embargo, riot, sabotage, terrorism, labour shortage or dispute, telecommunications infrastructure failure (“**Force Majeure Event**”), provided that the delayed Party: (a) gives the other Party notice of such Force Majeure Event; and (b) uses its reasonable commercial efforts to mitigate such failure or delay in performance due to the Force Majeure Event. Failure of either Party to perform under this Agreement, because of a Force Majeure Event lasting more than three (3) months will, upon twenty-four (24) hours’ written notice to the other Party, represent a ground for termination only of the Service affected by such Force Majeure Event. Notwithstanding the foregoing, no failure of performance because of a Force Majeure Event shall result in relief from the obligation to pay for Services provided.
+<br>
+### **12. Miscellaneous**
+
+**12.1 Governing Law**
+   
+   12.1.1 The Agreement shall be governed by, construed, and enforced according to the laws of Hong Kong.
+   12.1.2 Any dispute arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts of Hong Kong.
+
+**12.2 Entire Agreement**
+   
+   12.2.1 This Agreement constitutes the entire agreement between the Parties with respect to the subject matter of this Agreement and (to the extent permissible by law) supersedes all prior representations or oral or written agreements between the Parties with respect to that subject matter.
+   12.2.2 Each Party agrees and acknowledges that it has not been induced to enter into this Agreement by any representation, warranty or undertaking not expressly incorporated into it.
+
+**12.3 Severability**
+
+If any provision of this Agreement is to any extent illegal, otherwise invalid or incapable of being enforced, such provision shall be excluded to the extent of such invalidity or unenforceability; all other terms hereof shall remain in full force and effect; and to the extent permitted and possible, the invalid or unenforceable term shall be deemed replaced by a term that is valid and enforceable and that comes closest to expressing the intention of such invalid or unenforceable term.
+
+**12.4 Waiver**
+
+No failure of either Party to exercise, and no delay by it in exercising, any right, power or remedy in connection with this Agreement (each a “**Right**”) shall operate as a waiver of that Right, nor shall any single or partial exercise of any Right preclude any other or further exercise of that Right or the exercise of any other Right.
+
+**12.5 Assignment**
+   
+   12.5.1 Subject to Clause 12.5.2, this Agreement shall be binding on and inure to the benefit of the Parties and their successors and permitted assigns. The Parties may not assign or novate all or any part of their rights or obligations under this Agreement nor any benefit arising under or out of this Agreement without the prior written consent of the other Party (not to be unreasonably withheld or delayed).
+   12.5.2 Dollarsmart Global shall be entitled to assign or novate this Agreement to any of its affiliates or subsidiaries at its discretion and the Customer shall enter into such documents as are reasonably necessary for this purpose.
+
+**12.6 Third Party Rights**
+
+A person who is not a Party to this Agreement has no right under the Contracts (Rights of Third Parties) Ordinance (Cap. 623) to enforce any term of, or enjoy any benefit under, this Agreement.
+
+**12.7 Notices** 
+
+   12.7.1 Any notice or communication required or permitted to be given hereunder may, in addition to any means permitted by applicable law, be delivered by electronic means, by hand, deposited with an overnight courier, or mailed by registered or certified mail, return receipt requested, postage prepaid, in each case to the address of the receiving party indicated on the signature page hereof or at such other address as may hereafter be furnished in writing by either party hereto to the other.
+   12.7.2 Any failure by either Party to notify the other of a change of address or email shall be deemed served upon that Party, should the other Party serve notices to the previous address or email. Without prejudice to the foregoing, notice will be effective upon receipt.
+
+**12.8 Non-Solicitation**
+
+The Customer undertakes that it shall not directly or indirectly, for the period from the Effective Date and for twelve (12) months after the date of termination of this Agreement, solicit any Dollarsmart Global employee for the purpose of offering employment, unless expressly approved by Dollarsmart Global in writing.
+
+**12.9 Amendments**
+
+Dollarsmart Global may amend the terms of this Agreement (including the Schedules and/or Appendices) at any time without prior notice to the Customer, with such amendments becoming effective immediately. Any use of the Services by the Customer after Dollarsmart Global has notified the Customer of such amendments shall constitute the Customer’s acceptance of this Agreement as amended. 
+
+**12.10 Counterparts**
+
+The Agreement may be executed in two or more counterparts, each of which will be deemed an original, but all of which together shall constitute one and the same instrument.
+
+**12.11 Relationship of Parties**
+
+Dollarsmart Global and the Customer are independent contractors and this Agreement will not establish any relationship of partnership, joint venture, employment, franchise or agency between Dollarsmart Global and the Customer. Neither Dollarsmart Global nor the Customer will have the power to bind the other or incur obligations on the other’s behalf without the other’s prior written consent, except as otherwise expressly provided herein.
+
+**12.12 Responsibility for** **End-Customers**
+
+For the avoidance of doubt, the Customer shall be solely responsible for the acts or omissions of its End-Customers in respect of their access to or use of the Services.
+
+**12.13 No Trust Fund Created**
+
+Neither this Agreement nor any of the Transactions contemplated hereby shall create, or be construed to create, a trust or separate fund of any kind or a fiduciary relationship between Dollarsmart Global and the Customer or any other persons. The Customer acknowledges that Dollarsmart Global does not and will not hold any Funds in a separate bank account. 
+
+**BY CLICKING ON THE "ACCEPT" BUTTON BELOW YOU AGREE TO THE TERMS OF THIS AGREEMENT WHICH WILL BIND YOU.**
+
+**IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, CLICK ON THE "REJECT" BUTTON BELOW.**
+
+
+|ACCEPT|REJECT|
+| :-: | :-: |
+
+---
+
+### **Schedule 1 Services**
+
+The following Services shall be provided by Dollarsmart Global to the Customer from the applicable Effective Date:
+
+☐	Collection Service (as further detailed in Appendix 1 (*Collection Service*)) of this Schedule 1 (*Services*)
+
+☐ 	Disbursement Service (as further detailed in Appendix 2 (*Disbursement Service*)) of this Schedule 1 (*Services*)
+
+☐ 	Virtual Account Service (as further detailed in Appendix 3 (*Virtual Account Service*)) of this Schedule 1 (*Services*)
+<br>
+#### **Appendix 1 to Schedule 1 (*Services*) Collection Service**
+
+**1. Application**
+
+The following additional terms and conditions apply to the provision of Collection Service.
+
+**2. Provision of Collection Service**
+   
+   **2.1** Dollarsmart Global shall provide the Customer with a collection solution, by which the Customer may appoint Dollarsmart Global to receive Funds from its End-Customers on its behalf.
+
+   **2.2** Dollarsmart Global shall provide prompt confirmation of the receipt of Funds, including a transaction number assigned to the transfer.
+
+   **2.3** Upon receipt of any Funds, Dollarsmart Global shall transfer such Funds, net of any charges charged by third parties (including currency conversion fees, wire receipt fees or similar fees), into the Client Account.
+
+   **2.4** The Customer acknowledges that Dollarsmart Global may charge the End-Customer a Transaction Fee and Currency Exchange Fee. The Customer is obliged to inform End-Customers where required by law of any cost charged to the End-Customer by Dollarsmart Global.
+
+   **2.5** Dollarsmart Global shall transfer such Funds from the Client Account to a designated external bank account of the Customer, at agreed time intervals and subject to agreed minimum transfer sums as specified in Schedule 2 (*Fee Schedule*). 
+
+   **2.6** The Customer acknowledges that Dollarsmart Global has no responsibility to ensure the amount transferred by the End-Customer is equivalent to that agreed between the Customer and the End-Customer. 
+
+   **2.7** For avoidance of doubt, Dollarsmart Global has no obligation to re-collect or reimburse the End-Customer when the amount of Funds as transferred by the End-Customer to Dollarsmart Global is lower or higher than the agreed amount between the End-Customer and the Customer.
+   
+**3. Compliance Measures**
+   
+   **3.1** The acceptance by Dollarsmart Global of any fund transfer pursuant to this Agreement shall be without recourse to the Customer, except for as follows:
+   
+   3.1.1 the End-Customer or its Intermediary Bank makes a written complaint to Dollarsmart Global or its Intermediary Bank operating the bank account used to receive the payment that the End-Customer did not in fact make or authorise the payment;
+   3.1.2 the payment has been reversed for whatever reason by any Intermediary Bank; 
+   3.1.3 the Transaction was made at or by a customer other than the Customer;
+   3.1.4 the Transaction violates the terms of this Agreement or any other agreement with the relevant Intermediary Bank, including any violation by law, rule, regulation, policy or guideline; 
+   3.1.5 the Transaction otherwise raises an inquiry by any governmental or regulatory authority, or any other body which is likely to affect Dollarsmart Global’s regulatory standing; or
+   3.1.6 any representation or warranty made by the Customer in connection with the Transaction is false or inaccurate in any respect.
+
+   **3.2** In any such case, Dollarsmart Global shall be entitled to take any necessary action to refund the End-Customer and to recover any costs associated with such refund from the Customer. Dollarsmart Global shall thereupon not be liable for any dispute between the Customer and its End-Customers. 
+<br>
+#### **Appendix 2 to Schedule 1 (*Services*) Disbursement Service**
+
+**1. Application**
+
+The following additional terms and conditions apply to the provision of Disbursement Service.
+
+**4. Provision of Disbursement Service**
+
+   **4.1** Dollarsmart Global shall provide the Customer with a payment solution, by which the Customer may make payments to designated Beneficiaries through Dollarsmart Global.
+   
+   **4.2** The Client Account, which shall be prefunded and maintained in one or more specific currency, shall be used as the sole funding source for payments made using the Disbursement Service.
+   
+   **4.3** Dollarsmart Global shall confirm the status of any Payment Instruction received from the Customer, by returning a transaction number assigned to each individual Payment Instruction.
+   
+   **4.4** The Customer is solely responsible for the accuracy and completeness of the information provided to Dollarsmart Global as part of the Services, including the names, bank details and account numbers of any and all Beneficiaries. Dollarsmart Global has no obligation to verify any such details of any Beneficiaries. 
+   
+   **4.5** The Customer shall ensure that only authorised personnel be involved in giving Payment Instructions. Accordingly, Dollarsmart Global shall treat, and be entitled to treat, each Payment Instruction received as consented and properly authorised by the Customer.
+   
+   **4.6** Upon receipt of each correctly formed Payment Instruction, Dollarsmart Global shall deduct the requested payment amount including any applicable fees stated in Schedule 2 (*Fee Schedule*) from the Client Account and execute the payment transfer from an appropriate Dollarsmart Global bank account. 
+   
+   **4.7** The Customer acknowledges that Dollarsmart Global may charge the End-Customer a Transaction Fee and Currency Exchange Fee. The Customer is obliged to inform End-Customers where required by law of any cost charged to the End-Customer by Dollarsmart Global.
+   
+   **4.8** The account balance of the Client Account must be sufficient to cover any Payment Instruction to be processed. In the event that the requested payment amount exceeds the account balance of the Client Account, the Payment Instruction shall not be processed and shall be suspended until such time as the account balance of the Client Account exceeds the requested payment amount. The Customer shall not incur any fees for the Payment Instruction(s) being suspended. In such cases, the Customer shall pay any outstanding balance to Dollarsmart Global without any delay. 
+   
+   **4.9** The Customer shall not incur any fees for Payment Instructions not processed and suspended due to insufficient payment information provided. In such cases, the Customer shall provide the requisite information to Dollarsmart Global without any delay.
+   
+   **4.10** The Customer shall be charged for any Payment Instructions processed by Dollarsmart Global that are subsequently rejected by any Intermediary Bank in accordance with Schedule 2 (*Fee Schedule*), other than to the extent the rejection is solely attributable to Dollarsmart Global.
+   
+   **4.11** Without prejudice to the foregoing, where the Customer has supplied an incorrect Payment Instruction to Dollarsmart Global, which has not been sent to an Intermediary Bank for onward settlement and to the extent recall or amendment is reasonably practicable, Dollarsmart Global shall use reasonable endeavours to recall or otherwise amend such Payment Instruction, subject to the charges set out in Schedule 2 (*Fee Schedule*).
+   
+   **4.12** The Customer shall be charged any additional fees that Dollarsmart Global incurs in the provision of Disbursement Services, including currency re-conversion fees, investigation fees, amendment fees or similar fees.
+   
+   **4.13** Dollarsmart Global shall not be liable for any delays by the End-Customer’s bank to apply the funds to the End-Customer’s account on the correct value date, or if the End-Customer’s bank applies funds on the subsequent Business Day with back value. 
+   
+   **4.14** The Customer acknowledges that Dollarsmart Global has limited control over the infrastructure of its banking partners and the Intermediary Banks. Accordingly, Dollarsmart Global shall not be liable for any action of any Intermediary Bank. Further, the Customer acknowledges that Dollarsmart Global does not have tailored service agreements in place with any Intermediary Bank to protect its own risk or that of the Customer or its End-Customers.
+   
+   **4.15** Each Disbursement transaction is given a unique transaction number and y should use this when communicating with us.
+
+**5. Compliance Measures**
+   
+**5.1** The Customer acknowledges that Dollarsmart Global:
+   
+   5.1.1 is a licensed money services operator under Hong Kong law and applies standard risk and compliance practices, including anti-money laundering, financial crime prevention, terrorist financing, and know your customer policies and procedures, and must comply with relevant laws, policies and practices in respect of its licensed business; 
+   5.1.2 must further comply with all applicable laws and regulations in relation to its licensed business; and 
+   5.1.3 may decline to act on any Payment Instruction where Dollarsmart Global considers a breach may potentially occur in relation to any law or regulation referenced in this paragraph 3.1.
+
+**5.2** Prior to submitting a Payment Instruction to Dollarsmart Global, the Customer shall:
+   
+   5.2.1 apply its standard risk and compliance practices, including its anti-money laundering, financial crime prevention, terrorist financing, and know your customer policies and procedures, and any other relevant laws, policies and practices in respect of the applicable End-Customer and Beneficiary; and 
+   5.2.2 comply with all applicable laws and regulations in verifying and documenting the applicable End-Customer’s and Beneficiary’s identification, which shall include checking each such End-Customer and Beneficiary against any lists (such as sanctioned or politically exposed persons lists) of persons who, according to applicable law, should not receive funds. If the Customer identifies an End-Customer or Beneficiary as being listed on any such lists, the Customer must not submit the relevant Payment Instruction to Dollarsmart Global.
+<br>
+#### **Appendix 3 to Schedule 1 (*Services*) Virtual Account Service**
+
+**1. Application**
+
+The following additional terms and conditions apply to the provision of Virtual Account Service.
+
+**6. Provision of Virtual Account Service**
+   
+   **6.1** Dollarsmart Global shall provide the Customer with a virtual account solution, by which the Customer and its End-Customers may deposit funds in Virtual Accounts established by Dollarsmart Global in agreed currencies.
+   
+   **6.2** Dollarsmart Global may, in its sole discretion, determine the minimum account balance, interest rates and types of currencies accepted of each Virtual Account, in addition to any other charges or commission Dollarsmart Global may notify the Customer from time to time. 
+   
+   **6.3** Dollarsmart Global may, in its sole discretion but with prior written notice to the Customer, change the account number of any or all of the Virtual Accounts as it deems necessary or advisable, if:
+   
+   6.3.1 Dollarsmart Global, acting reasonably, deems it necessary or advisable in connection with its business; or 
+   6.3.2 the Customer changes the constitution, nature or any material aspect of its business. 
+
+   **6.4** Dollarsmart Global shall provide the Customer with prompt confirmation of the receipt of Funds, including a unique identification key assigned to the transfer.
+   
+   **6.5** The Virtual Account shall be equipped with real time account reporting functionalities which shall allow the Customer to view balances and incoming and outgoing transactions of the Virtual Account in real time.
+   
+   **6.6** The Customer may transfer funds between the Virtual Account and any other local and international virtual accounts or payment facilities.
+   
+   **6.7** The funds provided to Dollarsmart Global by the Customer shall be held on deposit in Dollarsmart Global’s accounts with its Intermediary Banks. Such accounts may be omnibus or mixed accounts and will be subject to local banking rules and regulations in the respective country of the location of any such account.
+   
+   **6.8** The Virtual Account may be disabled at any time without notice, upon which all Funds will be returned to the Customer and, where applicable, its End-Customers, promptly.
+   
+   **6.9** No negative or credit balances may be maintained on any Virtual Account. 
+   
+**7. Compliance Measures**
+   
+   **7.1** The acceptance by Dollarsmart Global of any fund transfer pursuant to this Agreement shall be without recourse to the Customer, except for as follows:
+   
+   7.1.1 the End-Customer or its Intermediary Bank makes a written complaint to Dollarsmart Global or its Intermediary Bank operating the bank account used to receive the payment that the End-Customer did not in fact make or authorise the payment;
+   7.1.2 the payment has been reversed for whatever reason by any Intermediary Bank; 
+   7.1.3 the Transaction was made at or by a customer other than the Customer;
+   7.1.4 the Transaction violates the terms of this Agreement or any other agreement with the relevant Intermediary Bank, including any violation by law, rule, regulation, policy or guideline; 
+   7.1.5 the Transaction otherwise raises an inquiry by any governmental or regulatory authority, or any other body which is likely to affect Dollarsmart Global’s regulatory standing; or
+   7.1.6 any representation or warranty made by the Customer in connection with the Transaction is false or inaccurate in any respect.
+
+   **7.2** The Customer hereby acknowledges that in the course of the Dollarsmart Global executing Transaction(s) and providing the Collection, Virtual Account and Disbursement (‘Money Remittance Services”), Dollarsmart Global and/or its associated companies may instruct or utilise the services of other third-party payment providers.  Accordingly, the Customer hereby authorises Dollarsmart Global:-
+   (a) to release to such third-party payment provider(s) such information about the
+Customer as the third-party provider may require in its absolute discretion in order to
+carry out verification checks on the Merchant’s identity and the identity of any ultimate
+beneficial owner/director of the Customer;
+   (b) to provide such additional documentation as the third-party payment provider
+may require (and which the Dollarsmart Global may duly request from the Customer)
+to enable it to comply with anti-money laundering regulations and its other statutory,
+regulatory or legal obligations;
+   (c) to provide the Customers contact details to the third-party payment provider to
+enable the third-party payment provider to contact the Customer should it so require;
+   (d) to authorise the third-party payment provider to undertake all necessary checks
+and searches in relation to the Customer and its authorised signatories to enable the
+third-party payment provider to make an assessment as to the Customer’s identity;
+   (e) to give irrevocable instructions to the third-party payment provider in relation to
+any Payment ultimately due to the Customer or more generally in relation to the
+Money Remittance Services.
+
+   **7.3** In any such case, Dollarsmart Global shall be entitled to take any necessary action to refund the End-Customer and to recover any costs associated with such refund from the Customer. Dollarsmart Global shall thereupon not be liable for any dispute between the Customer and its End-Customers. 
+<br>
+### **Schedule 2 Fee Schedule**
+
+**1. Currency Conversion:**
+
+Our Services include the ability to convert currencies, for example:
+
+**(a)** As part of a Disbursement.
+**(b)** In your Dollarsmart Global Virtual Account, when you add money in one currency and then later use those funds to send money to a third party in another currency. 
+**(c)** In your Dollarsmart Global Virtual Account, when you hold a balance in one currency and then convert it to a different currency.
+
+**Exchange rate.** When we refer to an exchange rate in this Agreement, it means the exchange rate at the relevant time for the relevant currency pair (for example, GBP to EUR, USD to AUD) that is offered by Dollarsmart Global, which is typically provided by a reference rate provider and usually the mid-market exchange rate. We may change our reference rate provider from time to time without notice to you.
+
+For some currencies, we do not use the mid-market exchange rate, including where we are required by law to use a different reference rate for the exchange rate for your currency pair. For these currencies we will notify you of the exchange rate offered by Dollarsmart Global when you initiate a current conversion.
+
+We may not process your currency conversion order until we hold or have received the funds and specified fees. It is your responsibility to ensure money that you fund a currency conversion order (whether through your Dollarsmart Global Virtual Account, or as part of a Money Transfer or any other Service we provide) in a timely manner. We cannot be responsible for the time it takes for the money to be sent to us by your bank or payment service provider.
+
+Out-of-Market Quotes – a) If we quote you a Rate that is clearly a mistake on our part ("Out-of-Market Quote") as the result of a technical or human error, it is not binding on us. You must notify us as soon as the mistake comes to your attention and we will requote the Rate as soon as possible.
+
+Adverse market rate movement – If we quote and you accept a rate and either the underlying FX mid rate for that currency pair we quote you and you have accepted has moved by more than 2% against us after 24 hours we have the right to cancel the transfer and ask you to rebook a new transfer;
+
+FX Rates - You acknowledge that exchange rates can fluctuate rapidly and that we constantly update our quoted FX Rates. We will quote you a dealable Foreign Exchange ("FX") rate when you enter your transaction and receive a Transaction ID from us.
+
+Transactions Beneficial Rate Movement: If the FX Rate in between the time the Transaction is placed and when we receive your funds moves for you we will not pay you any of the difference.
+
+FX Rate Source - we have sole responsibility to determine what FX rates will be used to determine any FX Rate we display to you. Our FX rates will update in real time or any period we deem suitable.
+
+Intermediary and Beneficiary Banking Fees and Charges: We may use third party suppliers and Intermediary and Beneficiary banks who may deduct fees from your transaction. Given the huge number of possible correspondent and beneficiary banks and their different charging methodologies, we are unable to advise you of the amount of these fees and charges at the time you entering the online transaction. It is your responsibility to contact your beneficiary’s bank to determine any fees and charges they may levy on your transaction.
+
+**Refusing a currency conversion order.** We reserve the right to refuse any currency conversion order if the conditions set out in this Agreement have not been met. 
+
+**Confirmation of currency conversion order.** Each currency conversion order is given a unique transaction number.
+
+**2. Transaction Fees**
+
+Dollarsmart Global will be transparent on all Foreign Exchange rates, and transactional and other fees when using our services. 
+
+For Disbursement you shall be charged transactional fees and where the sending currency is different from the beneficiary currency a Currency Conversion fee on each Transaction where a Customer makes an international or SWIFT payment as part of the Disbursement Service. These fees and charges and currency conversion shall be visible to you before booking any Disbursement. 
+
+For collection fees, Dollarsmart Global shall charge a percentage of monies received and this percentage shall be visible to you before booking any collection in our platform.
+
+If you do not accept the fee and/or Foreign Exchange rate for disbursement you are under no obligation to use our service.
+
+Where you Top Up funds from your own bank account in the same name as the Virtual Account you hold with Dollarsmart Global, we will not charge a collection fee for this service.
+
+**3. Recurring Fees**
+
+The following fees shall be charged on a recurring basis in accordance with the billing cycle specified below:
+
+|**Type**|**Billing cycle (timing of deduction of Fee from Client Account)**|**Fees (per billing cycle)**|
+| - | - | - |
+|Virtual Account Service fees|Monthly on the 27<sup>th</sup> day of each month.|Dollarsmart Global has the right to change the virtual account fees from time to time and will advise beforehand before any change is price is made.|
+
+These fees shall be charged as per the billing cycle.
+
+**4. Ad-hoc Fees**
+
+The following fees shall be charged on a one-off basis when the Customer instructs Dollarsmart Global to carry out certain activities:
+
+|***Extra Fee Tables:***|***Dollarsmart Global Fee***|
+| :- | -: |
+|Amendment Fee:<br>***Cancellations***<br>(Cancellation performed by DOLLARSMART GLOBAL due to<br>wrongful or incomplete Disbursement Payment Instructions), or<br>Cancellation requested by MERCHANT before the Disbursement<br>Payment Instruction is processed by DOLLARSMART GLOBAL.)<br><br>***Rejections***<br>(Transaction cancellation or rejection by Intermediary Banks<br>(reasons could include but not limited to wrongful Disbursement<br>Payment Instructions or due to compliance). Funds re-credited to<br>Client Account.)<br><br>***Recalls***<br>Where possible Recall Payment requested by Customer after Disbursement Payment<br>Instruction has been processed by DOLLARSMART GLOBAL.<br>Funds re-credited to Client Account.<br>Recall is not available for SWIFT payments )|USD60 plus Intermediary Bank costs  |
+|Manual Reporting – create manual reports such as special statements or approval of Customer Audit reports.|USD 100|
+|Manual Handling<br>(Manual handling of a disbursement or collection transaction in case of wrongly supplied information by Customer.)|USD 30 per hour|
+<br>
+
+### **Schedule 3 Service Level Agreement**
+
+**1. ACCOUNT MANAGEMENT & INSTRUCTION**
+   
+   **7.3** Dollarsmart Global shall provide the Customer with a designated Client Account for their payment activity. 
+   
+   **7.4** Access to the Client Account shall be provided via an online system which will provide information on Transactions processed under this Agreement. 
+   
+   **7.5** The Customer shall utilise the online system to provide Payment Instructions, inspect payment activity, view incoming receipt activity and to establish any information required of the status of individual Transactions.
+   
+   **7.6** The online system may also be used to view information on balance and any associated Fees charged, in addition to all historical activity.
+   
+   **7.7** Where there has been no activity on the Client Account for more than three (3) consecutive months, other than the Fees deducted by Dollarsmart Global, it shall be considered inactive and shall be subsequently deactivated in the online system. Dollarsmart Global reserves the right, in its sole discretion, to reactivate the Client Account, subject to a risk-based approach, should the Customer wish to request its reactivation. 
+   
+   **7.8** Where there has been no activity on the Client Account for more than six (6) consecutive months, other than the Fees deducted by Dollarsmart Global, it shall be considered dormant and user access will be revoked on the online system. Dollarsmart Global reserves the right to conduct a new know your customer review upon the Customer, should the Customer wish to activate the Client Account again. 
+   
+**2. OPERATIONAL & TECHNICAL SUPPORT SERVICES TO CUSTOMER**
+
+   **7.9** The Customer may raise an inquiry to Dollarsmart Global via email.
+   
+   **7.10** Alternatively, the Customer may contact the support teams directly using the details provided in the Customer Support Guide, for general inquiries, amendments, cancellations, top-ups of Client Account or withdrawals. 
+   
+   **7.11** The Customer may also contact Dollarsmart Global to make complaints via the email stipulated below.
+   
+   7.11.1 Support Contact details
+Email: 	<support@dsgpay.com> 
+Phone:	+852 5801 4532
+   7.11.2 Account Remittance
+The Customer may contact Dollarsmart Global’s operation unit in relation to questions regarding settlements, cancellation of withdrawals, fees and change of settlement account details. 
+Email: 	<support@dollarsmart.co> 
+
+   **7.12** Once the incident has been investigated and, where possible, resolved, Dollarsmart Global will contact the Customer to confirm that the incident has been resolved and close the inquiry in accordance with the Customer’s instruction.
+   
+   **7.13** Escalations may be invoked for a variety of reasons such as a ticket’s duration stretching beyond a target interval or a required change in ticket priority and should be addressed to the relationship manager assigned to the Customer.
+   
+   **7.14** Additional End-Customer Services: At the Customer's written request, Dollarsmart Global may provide various basic back-office bookkeeping and accounting services to the Customer, including manual handling of refunds for specific End-Customers for Transactions processed by Dollarsmart Global. Such services will be invoiced at US$100 per hour in fifteen (15) minute increments, unless otherwise agreed between the Customer and Dollarsmart Global. 
+   
+**8. PAYMENTS: SUPPORT SERVICES TO CUSTOMER & END-CUSTOMERS**
+   
+   **8.1** Dollarsmart Global shall use commercially reasonable endeavours to co-operate with the Customer and its Intermediary Bank to resolve any issues in relation to Transactions under this Agreement, which may include requests by the Customer to complete, amend or cancel the Payment Instruction. Dollarsmart Global shall not be responsible for the provision of support to the Customer's End-Customers relating to Transactions under this Agreement.
+   
+   **8.2** In the event the Customer uses Dollarsmart Global for international transfers via the SWIFT mechanism, Intermediary Banks may deduct certain fees from the amount transferred. In such cases, Dollarsmart Global shall not be responsible for assisting any End-Customer in relation to resolving any enquiries raised in relation to these deductions. 
+   
+   **8.3** The Customer must provide adequate telephone and email support for its End-Customers so as to minimise the number of End-Customers being redirected to Dollarsmart Global for support services. 
+   
+**9. COLLECTIONS: SUPPORT SERVICES TO END-CUSTOMERS**
+   
+   **9.1** The Customer’s End-Customers, who receive or send Funds, may raise an inquiry to Dollarsmart Global only in relation to completing, amending or cancelling a payment via Dollarsmart Global’s online web customer support portal at <https://corp.dollarsmartglobal.com/>. 
+   
+   **9.2** Dollarsmart Global shall provide first level support to the Customer’s End-Customers only in relation to any queries in completing a payment for the purposes of the Collection Service and only to the extent the issue is caused by Dollarsmart Global. All other enquiries will be referred to the Customer. 
+   
+   **9.3** Dollarsmart Global may receive a different amount than what was agreed between the Customer and the End-Customer. In such cases, the Customer will be solely responsible to resolve such payment amount differences with the End-Customer. The Customer acknowledges that Dollarsmart Global has no responsibility to ensure the amount transferred by the End-Customer is equivalent to that agreed between the Customer and the End-Customer. 
+   
+   **9.4** The Customer attests that it will maintain a fair exchange and return policy and make adjustments with respect to goods and services sold and/or leased to its End-Customers whenever appropriate. 
+   
+   **9.5** Except as expressly provided in this Agreement, Dollarsmart Global shall not be responsible for providing any services relating to refunds to End-Customers.
+
+**10. SYSTEM AVAILABILITY**
+   
+   **10.1** A service availability of 99.8% will be targeted. Outage time is measured in hours of complete payment service interruption due to an incident of Critical severity.
+   
+   **10.2** Planned work, including maintenance activities such as software upgrades, capacity increase will not count towards system availability when:
+   
+   10.2.1 notified by Dollarsmart Global to Customer at least two (2) weeks in advance;
+   10.2.2 executed between 22:00 and 04:00 CET; or
+   10.2.3 lasting no more than two (2) hours.
+
+   **10.3** Notifications shall include: Date, starting time, ending time, reason, service impact or risk of service impact.
+   
+**11. INCIDENTS AND SERVICE RESTORATION DEFINITIONS AND TARGETS**
+   
+   **11.1** Incident severity definitions
+
+|**Fault Severity**|**Description**|
+| :- | :- |
+|**Critical**|The services are inaccessible and/or unable to operate.|
+|**Major**|The services are operational but a major function is not operational or the services have a fault that significantly affects its normal operation.|
+|**Minor**|The services have a fault which does not significantly affect its normal operation.|
+
+   **11.2** Response and restoration time performance targets
+
+<table><tr><th colspan="1" rowspan="2"><b>Incident severity</b></th><th colspan="1" rowspan="2"><b>Notification time</b></th><th colspan="5"><b>Service action times</b></th></tr>
+<tr><td colspan="1"><b>Initial feedback</b></td><td colspan="1"><b>Update interval</b></td><td colspan="1"><b>Restore time</b></td><td colspan="1"><b>Escalation to CTO</b></td><td colspan="1"><b>Escalation to CEO</b></td></tr>
+<tr><td colspan="1" valign="top"><b>Critical</b></td><td colspan="1" valign="top">1 hour</td><td colspan="1" valign="top">30 minutes</td><td colspan="1" valign="top">1 hour</td><td colspan="1" valign="top">4 hours</td><td colspan="1" valign="top">8 hours</td><td colspan="1" valign="top">12 hours</td></tr>
+<tr><td colspan="1" valign="top"><b>Major</b></td><td colspan="1" valign="top">4 hours</td><td colspan="1" valign="top">1 hour</td><td colspan="1" valign="top">2 working hours</td><td colspan="1" valign="top">1 business day</td><td colspan="1" valign="top">2 business days</td><td colspan="1" valign="top">4 business days</td></tr>
+<tr><td colspan="1" valign="top"><b>Minor</b></td><td colspan="1" valign="top">2 business days</td><td colspan="1" valign="top">2 business days</td><td colspan="1" valign="top">No commitment</td><td colspan="1" valign="top">4 business days</td><td colspan="1" valign="top">4 business days</td><td colspan="1" valign="top">N/A</td></tr>
+</table>
+<br>
+
+### **Schedule 4 How to use our services:**
+   
+**1. How to use our services:**
+
+Always be cautious when sending money to any third party. Double check accounts numbers and names and if you are unsure check with the beneficiary account details with the party you need to pay. This service is to receive money from your customers, clients, employers and to pay family and friends and legitimate business expenses.
+
+   **1.1** How to keep your account secure:
+
+When accessing your Dollarsmart Global Virtual Account or profile, you should at the minimum do the following:
+
+   1.1.1 Choose a strong password. Usually this is a mixture of alpha numeric characters and special charters.
+   1.1.2 Never share your password with anyone. We will never ask for your password.
+   1.1.3 We will force you to change your password on a regular basis. 
+   1.1.4 If you feel like your account is compromised or maybe subject of a scammer or phishing attack contact us immediately at support@dsgpay.com 
+   1.1.5 Key your credentials secure. Don’t share your login details with anyone.
+   1.1.6 Maintain your PC and other device. Keep operating system up to date, install anti virus software if recommended by the manufacturer and download the latest update of our application from the google or apple store.
+   1.1.7 You can only access our application from the google or apple stores.
+   1.1.8 We will set up Two factor Authentication for your access and critical functions in or application. 
+   1.1.9 Do not share your device or access to our application with third parties.
+
+**2. When accessing our software and services you must not:**
+
+   **2.1** Introduce any malicious or threatening software (trojans, worms, viruses or other logic bombs) or other malicious code into our software. 
+   
+   **2.2** Introduce any denial-of-service attacks that will interrupt our service.
+   
+   **2.3** Copy, download or introduce any software to monitor or interrupt our software or services;
+   
+   **2.4** Use a VPN or proxy to access our services. 
+   
+   **2.5** Attempt to gain unauthorized access to our software or networks;
+   
+   **2.6** Abuse, threaten our employees, agents and or other customers;
+   
+   **2.7** Open Dollarsmart Global accounts with fake, false personal and company documents
+
+**3.** It is important you contact us promptly, at support@dsgpay.com if you suspect any malicious access to your account or if your account has been compromised. Any loss through any delays in notifying us of a compromised account, may affect the security of your account and result in losses that you would be responsible for. You must provide us with any reasonable assistance we require from you to investigate and take any action required to secure your account.
+<br>
+### **Schedule 5 Local Country Amendments**
+
+Intentionally kept blank.
+<br>
+### **Schedule 6 List of Prohibited and Restricted Industries and Countries**
+
+**1. Restricted Countries and Industries:**
+
+You will not be able to access our services and products from these restricted countries or regions:
+
+Afghanistan, Belarus, Burundi, Chad, Congo, Democratic Republic of Congo, Crimea, Central African Republic, Cuba, Eritrea, Guinea Bissau, Iran, Iraq, Lebanon, Libya, Mali, Nicaragua, North Korea, Serbia, Somalia, South Sudan, Sudan, Syria, Ukraine, Russia, Venezuela and Yemen.
+
+You may not use our services for any prohibited industry or service listed below:
+
+**A. Illegal activities: This includes but not limited too:**
+
+• Business with sanctioned countries and individuals/businesses
+
+• Weapons, military or semi-military goods, military software or technologies
+
+• Drugs, including cannabis and all other illegal drugs
+
+• Animals
+
+• Human trafficking
+
+• Cultural artefacts
+
+• Sale of sexual services / prostitution
+
+• Child exploitation
+
+• Creation, facilitation, sale or distribution of goods or services that violate the
+
+intellectual property rights of a third party
+
+**B. Business with unacceptably high risk of Anti Money Laundering risk**
+
+• Political Organisations
+
+• Particular company entity types (shell / bearer companies / unregistered co's, etc.)
+
+• Second hand vehicles / scrap metal
+
+• Auction houses
+
+• Pawnbrokers
+
+• Precious metal or Stones/ Jewels
+
+• Adult industries/ Online dating/ Marriage service
+
+• Unregulated gambling/casinos/betting or financial service
+
+• Shell Banks, Shell Company
+
+- Unregulated NGO’s, Religious or charity organisations 
+- Crowdfunding
+
+**C. Businesses that don’t relate to Dollarsmart Global values:**
+
+• Atomic weapons
+
+• Coal/ Carbon credits/ Chemical/ Prescription Medications
+
+• Tobacco goods/ Alcohol Beverages/ Dietary supplements/ Seeds or plants
+
+• Extractive industries
+
+• Cults, psychics
+
+• Outbound telemarketing
+
+**D. Financial Services**
+
+• Cryptocurrencies
+
+• Ponzi-scheme/ Pyramid selling
+
+• NFT/Virtual currencies
+
+• Online payday lenders
+
+**2. What you may use our service for:**
+
+You may only receive funds into your Dollarsmart Global Virtual Account for the following purposes:
+
+- wages, salary and/or contractor payments; 
+- payouts from e-commerce and freelancer platforms; 
+- receiving payments from family, friends or other people you know for personal purposes, except USD Virtual accounts domiciled in the USD;
+- receiving payments from your clients and other third parties for the purpose of business payments.
+- You may not use your individual Dollarsmart Global Virtual account to receive business payments.
